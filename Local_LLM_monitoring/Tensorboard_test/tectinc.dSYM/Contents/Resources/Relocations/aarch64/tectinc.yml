@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/vassilylombard/GITHUB_PALO-IT/LAB-VASSILY/Local_LLM_monitoring/Tensorboard_test/tectinc'
+relocations:     []
+...
